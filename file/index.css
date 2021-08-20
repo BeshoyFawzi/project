@@ -297,8 +297,8 @@ float: left;
 .prag>p{
     text-align: center;
     position: relative;
-    top:15%; 
-    font-size: 4em;
+    top:40%; 
+    font-size:2em;
 
 }
 .call{
@@ -319,8 +319,8 @@ float: left;
 .pragr>p{
     text-align: center;
     position: relative;
-    top:9%; 
-    font-size:30px;
+    top:15%; 
+    font-size:25px;
 
 }
 /* end */
@@ -341,3 +341,147 @@ float: left;
     top:30%;
     padding: 2%;
 }
+@media screen and (max-width:530px) {
+    body{
+        overflow-x: hidden;
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .Hlayer{
+        width:50% ;
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .type{
+        height:1200px;
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .space{
+        margin: 1%;
+        width:100% ;
+        height:30%
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .ty{
+        position: relative;
+        bottom: 50%;
+        width:90% ;
+        /* height:300px; */
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .Hosting{
+        height:1400px;
+    
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .benefits{
+        width:100% ;
+        height:50%; 
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .col{
+        width:100% ;
+         height:50%; 
+    }
+    
+}
+@media screen and (max-width:530px) {
+    #SSL{
+        width:39% ;
+          
+    }
+    
+}@media screen and (max-width:530px) {
+    #Personal{
+        width:39% ;
+        height: auto;
+          
+    }
+    
+}
+@media screen and (max-width:530px) {
+    #Media{
+        width:39% ;
+        height: auto;
+    }
+    
+}
+@media screen and (max-width:530px) {
+    #Media{
+        width:39% ;
+        height: auto;  
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .mobile{
+        width:auto ;
+        height: 300px;  
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .info{
+        /* width:auto ; */
+        height:800px;  
+    }
+    
+}
+@media screen and (max-width:530px) {
+    .Company{
+
+        height:95%;  
+    }
+    
+} 
+@media screen and (max-width:530px) {
+    .Milestones{
+
+        height:95%;  
+    }
+    
+} 
+@media screen and (max-width:530px) {
+    .pragr>p{
+         font-weight:bolder;
+        font-size:15px;  
+    }
+    
+} 
+@media screen and (max-width:530px) {
+    .prag>p{
+         position: relative;
+         top:25%;
+        font-size:2em; 
+       
+    } 
+    
+}
+@media screen and (max-width:530px) {
+    .meeting{
+
+        height:400px ;
+       
+    } 
+    
+} 
+@media screen and (max-width:530px) {
+    .contant>p{
+    
+        font-size:10px !important
+       
+    } 
+    
+} 
